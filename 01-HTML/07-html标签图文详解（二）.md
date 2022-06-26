@@ -175,10 +175,10 @@ ol这个东西用的不多，如果想表达顺序，大家一般也用ul。举�
 
 > 定义列表的作用非常大。
 
-`<dl>`英文单词：definition list，没有属性。dl的子元素只能是dt和dd。
+`<dl>`英文单词：discription list，没有属性。dl的子元素只能是dt和dd。
 
- - `<dt>`：definition title 列表的标题，这个标签是必须的
- - `<dd>`：definition description 列表的列表项，如果不需要它，可以不加
+ - `<dt>`：discription title 列表的标题，这个标签是必须的
+ - `<dd>`：discription details 列表的列表项，如果不需要它，可以不加
 
 备注：dt、dd只能在dl里面；dl里面只能有dt、dd。
 
